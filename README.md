@@ -1,1 +1,3 @@
 # artistSearch
+## install
+npm install
